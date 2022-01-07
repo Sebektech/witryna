@@ -1,0 +1,13 @@
+body
+{
+    font-family: 'Roboto' sans-serif;
+    color: black;
+    background-color: white;
+}
+
+.container
+{
+    width: 96%;
+    padding: 0 2%;
+    margin: 0 auto;
+}
